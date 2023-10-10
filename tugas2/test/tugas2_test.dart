@@ -1,4 +1,4 @@
-import 'package:mirasitnur/mirasitnur.dart';
+import 'package:tugas2/tugas2.dart';
 import 'package:test/test.dart';
 
 void main() {
